@@ -1,0 +1,26 @@
+.my-navbar {
+    height: 100px;
+    background-color: red !important;
+    background-image: url('/img/aleksandar\ radulovic.jpg');
+}
+
+nav {
+    background-color: blue;
+}
+
+.heading-section {
+    font-size: 6rem;
+}
+
+.my-image {
+    height: 20px;
+}
+
+
+.heading-footer {
+    color: yellow;
+}
+
+.parent-div {
+    display: flex;
+}
